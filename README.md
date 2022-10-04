@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/msft-tamura/ContosoAir1/_apis/build/status/TatsuyaMuraoka.ContosoAir1?branchName=master)](https://dev.azure.com/msft-tamura/ContosoAir1/_build/latest?definitionId=15&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
